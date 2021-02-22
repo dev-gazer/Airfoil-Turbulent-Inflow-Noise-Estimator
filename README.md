@@ -2,6 +2,9 @@
 
 As estimator of airfoil turbulent inflow noise based on the owner PhD's study.
 
+
+![alt text](https://github.com/martuscellifaria/Airfoil-Turbulent-Inflow-Noise-Estimator/blob/main/Captura%20de%20tela%20de%202021-02-22%2020-10-43.png)
+
 ### Installation
 ##### Prerequisites
 - [Python]
@@ -24,4 +27,3 @@ $ python3 lowson_v2.py
 ### How to use
 There you'll have the several inputs to calculate turbulent inflow noise such as airfoil geometric aspects, flow conditions and distance from source and receiver. The output is a self updateable plot that estimates the sound spectrum (sound pressure level) along an audible frequency range.
 
-![alt text](https://github.com/martuscellifaria/Airfoil-Turbulent-Inflow-Noise-Estimator/blob/main/Captura%20de%20tela%20de%202021-02-22%2020-10-43.png)
